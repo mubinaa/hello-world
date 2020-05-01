@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-My first change. Nothung changed really. 
+My first change. Nothing changed really. 
